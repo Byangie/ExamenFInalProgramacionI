@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO FLEX\\Desktop\\CRUDS\\Crud_Alumnos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EAB6155-AAE5-4905-9E75-DFC4700914EA}|Crud_Alumnos\\Crud_Alumnos.csproj|c:\\users\\lenovo flex\\desktop\\cruds\\crud_alumnos\\crud_alumnos\\insertwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EAB6155-AAE5-4905-9E75-DFC4700914EA}|Crud_Alumnos\\Crud_Alumnos.csproj|solutionrelative:crud_alumnos\\insertwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EAB6155-AAE5-4905-9E75-DFC4700914EA}|Crud_Alumnos\\Crud_Alumnos.csproj|c:\\users\\lenovo flex\\desktop\\cruds\\crud_alumnos\\crud_alumnos\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EAB6155-AAE5-4905-9E75-DFC4700914EA}|Crud_Alumnos\\Crud_Alumnos.csproj|solutionrelative:crud_alumnos\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EAB6155-AAE5-4905-9E75-DFC4700914EA}|Crud_Alumnos\\Crud_Alumnos.csproj|c:\\users\\lenovo flex\\desktop\\cruds\\crud_alumnos\\crud_alumnos\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EAB6155-AAE5-4905-9E75-DFC4700914EA}|Crud_Alumnos\\Crud_Alumnos.csproj|solutionrelative:crud_alumnos\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EAB6155-AAE5-4905-9E75-DFC4700914EA}|Crud_Alumnos\\Crud_Alumnos.csproj|c:\\users\\lenovo flex\\desktop\\cruds\\crud_alumnos\\crud_alumnos\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5EAB6155-AAE5-4905-9E75-DFC4700914EA}|Crud_Alumnos\\Crud_Alumnos.csproj|solutionrelative:crud_alumnos\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EAB6155-AAE5-4905-9E75-DFC4700914EA}|Crud_Alumnos\\Crud_Alumnos.csproj|c:\\users\\lenovo flex\\desktop\\cruds\\crud_alumnos\\crud_alumnos\\updatewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EAB6155-AAE5-4905-9E75-DFC4700914EA}|Crud_Alumnos\\Crud_Alumnos.csproj|solutionrelative:crud_alumnos\\updatewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EAB6155-AAE5-4905-9E75-DFC4700914EA}|Crud_Alumnos\\Crud_Alumnos.csproj|c:\\users\\lenovo flex\\desktop\\cruds\\crud_alumnos\\crud_alumnos\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EAB6155-AAE5-4905-9E75-DFC4700914EA}|Crud_Alumnos\\Crud_Alumnos.csproj|solutionrelative:crud_alumnos\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EAB6155-AAE5-4905-9E75-DFC4700914EA}|Crud_Alumnos\\Crud_Alumnos.csproj|c:\\users\\lenovo flex\\desktop\\cruds\\crud_alumnos\\crud_alumnos\\insertwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5EAB6155-AAE5-4905-9E75-DFC4700914EA}|Crud_Alumnos\\Crud_Alumnos.csproj|solutionrelative:crud_alumnos\\insertwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EAB6155-AAE5-4905-9E75-DFC4700914EA}|Crud_Alumnos\\Crud_Alumnos.csproj|c:\\users\\lenovo flex\\desktop\\cruds\\crud_alumnos\\crud_alumnos\\updatewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5EAB6155-AAE5-4905-9E75-DFC4700914EA}|Crud_Alumnos\\Crud_Alumnos.csproj|solutionrelative:crud_alumnos\\updatewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EAB6155-AAE5-4905-9E75-DFC4700914EA}|Crud_Alumnos\\Crud_Alumnos.csproj|c:\\users\\lenovo flex\\desktop\\cruds\\crud_alumnos\\crud_alumnos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EAB6155-AAE5-4905-9E75-DFC4700914EA}|Crud_Alumnos\\Crud_Alumnos.csproj|solutionrelative:crud_alumnos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO FLEX\\Desktop\\CRUDS\\Crud_Alumnos\\Crud_Alumnos\\DataAccess.cs",
+              "RelativeDocumentMoniker": "Crud_Alumnos\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\LENOVO FLEX\\Desktop\\CRUDS\\Crud_Alumnos\\Crud_Alumnos\\DataAccess.cs",
+              "RelativeToolTip": "Crud_Alumnos\\DataAccess.cs",
+              "ViewState": "AQIAAIwAAADAjfrcvh0vwJMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T15:39:48.77Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\LENOVO FLEX\\Desktop\\CRUDS\\Crud_Alumnos\\Crud_Alumnos\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Crud_Alumnos\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\LENOVO FLEX\\Desktop\\CRUDS\\Crud_Alumnos\\Crud_Alumnos\\MainWindow.xaml",
+              "RelativeToolTip": "Crud_Alumnos\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T15:20:41.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO FLEX\\Desktop\\CRUDS\\Crud_Alumnos\\Crud_Alumnos\\UpdateWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Crud_Alumnos\\UpdateWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\LENOVO FLEX\\Desktop\\CRUDS\\Crud_Alumnos\\Crud_Alumnos\\UpdateWindow.xaml.cs",
+              "RelativeToolTip": "Crud_Alumnos\\UpdateWindow.xaml.cs",
+              "ViewState": "AQIAAAgAAAAA6zv9kzkswCUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:48:49.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InsertWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO FLEX\\Desktop\\CRUDS\\Crud_Alumnos\\Crud_Alumnos\\InsertWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Crud_Alumnos\\InsertWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\LENOVO FLEX\\Desktop\\CRUDS\\Crud_Alumnos\\Crud_Alumnos\\InsertWindow.xaml.cs*",
+              "RelativeToolTip": "Crud_Alumnos\\InsertWindow.xaml.cs*",
+              "ViewState": "AQIAABkAAAAApL7VShkjwCcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:44:24.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO FLEX\\Desktop\\CRUDS\\Crud_Alumnos\\Crud_Alumnos\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Crud_Alumnos\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\LENOVO FLEX\\Desktop\\CRUDS\\Crud_Alumnos\\Crud_Alumnos\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Crud_Alumnos\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAiwDoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T15:20:38.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO FLEX\\Desktop\\CRUDS\\Crud_Alumnos\\Crud_Alumnos\\Alumno.cs",
+              "RelativeDocumentMoniker": "Crud_Alumnos\\Alumno.cs",
+              "ToolTip": "C:\\Users\\LENOVO FLEX\\Desktop\\CRUDS\\Crud_Alumnos\\Crud_Alumnos\\Alumno.cs",
+              "RelativeToolTip": "Crud_Alumnos\\Alumno.cs",
+              "ViewState": "AQIAAAwAAABA39lMgVEuwBQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T15:41:57.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InsertWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\LENOVO FLEX\\Desktop\\CRUDS\\Crud_Alumnos\\Crud_Alumnos\\InsertWindow.xaml",
+              "RelativeDocumentMoniker": "Crud_Alumnos\\InsertWindow.xaml",
+              "ToolTip": "C:\\Users\\LENOVO FLEX\\Desktop\\CRUDS\\Crud_Alumnos\\Crud_Alumnos\\InsertWindow.xaml",
+              "RelativeToolTip": "Crud_Alumnos\\InsertWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T16:33:22.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\LENOVO FLEX\\Desktop\\CRUDS\\Crud_Alumnos\\Crud_Alumnos\\UpdateWindow.xaml",
+              "RelativeDocumentMoniker": "Crud_Alumnos\\UpdateWindow.xaml",
+              "ToolTip": "C:\\Users\\LENOVO FLEX\\Desktop\\CRUDS\\Crud_Alumnos\\Crud_Alumnos\\UpdateWindow.xaml",
+              "RelativeToolTip": "Crud_Alumnos\\UpdateWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T16:46:04.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO FLEX\\Desktop\\CRUDS\\Crud_Alumnos\\Crud_Alumnos\\Usuario.cs",
+              "RelativeDocumentMoniker": "Crud_Alumnos\\Usuario.cs",
+              "ToolTip": "C:\\Users\\LENOVO FLEX\\Desktop\\CRUDS\\Crud_Alumnos\\Crud_Alumnos\\Usuario.cs",
+              "RelativeToolTip": "Crud_Alumnos\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T15:53:46.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
